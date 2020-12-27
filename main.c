@@ -313,6 +313,5 @@ int main()
     printf("example:\n");
     runLuckBags(10, 10);
     start();
-
     return 0;
 }
